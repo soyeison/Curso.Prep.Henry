@@ -1,0 +1,15 @@
+Explicación de conceptos clave
+
+Variable: Una variable es como una caja. Una caja en la que se puede guardar algo. Podemos guardar numeros, palabras, oraciones, y demas objetos.
+
+Strings: Los strings son varios simbolitos juntos. Esos simbolos pueden ser letras pero no tienen porque ser solo letras, pueden ser tambien simbolos como "!" o "%".
+Además que los numeros al ser simbolos tambien componen strings, por ejemplo "12" es un string compuesto por el simbolo 1 y 2.
+
+Funciones: Las funciones son como las maquinas por las que pasan las maletas en los aeropuestos para ser exminadas. La maleta se pone en un lado, pasa por una
+zona donde le hacen algo y luego vuelve a salir. La zona de ingreso en nuestra funcion viene siendo el lugar por el cual esta ingresando la
+maleta luego pasa por la zona de escaneo que en nuestro caso viene siendo lo que queremos que haga la funcion y luego sale entregandonos un resultado. 
+Los argumentos de la función vienen siendo los objetos con los cuales el escaner va a interactuar. 
+
+Declaraciones if y valores booleanos: Una afirmación es una oracion que describe una situacion que va a hacer algo. Por ejemplo: Si hago la tarea, puedo jugar.
+Esta afirmacion puede ser verdad o mentira. De esta forma funciona la Declaracion if. Yo le digo a la maquina que si pasa algo entonces 
+haga esto. Pero que si eso no pasa entonces que haga esto otro. 
