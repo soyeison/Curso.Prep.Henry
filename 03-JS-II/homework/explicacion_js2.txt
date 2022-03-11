@@ -1,0 +1,10 @@
+Explicación de conceptos
+
+for: El for es una funcion para la cual se define una variable que va a iterar, es decir que va a variar cada vez que se ejecute el bloque de codigo.
+Esta variable se usa comunmente para rrecorrer objetos o para optimizar operaciones.
+
+&&, ||, !: son los conectores logicos con los cuales se operan afirmaciones. Por ejemplo: cuando se tiene dos afirmaciones conectadas por medio de un "y"
+o en el lenguaje js "&&" ambos tienen que ser verdaderos para que la afirmacion completa sea verdadera. En el caso de conectar con un "o" o en JS 
+un "||" para que esto sea falso ambas afirmaciones deben ser falsas, de resto siempre son verdaderas. Veamos un ejemplo: Afirmacion 1: El numero
+5 es primo. Afirmacion 2: El numero 8 es primo. La afirmacion 1 es verdadera y la afirmacion 2 es falsa, por tanto si usamos un conector y para analizar 
+la expresion completa diria: el numero 5 es primo y el numero 8 es primo. Aqui ya la expresion completa es falsa porque solo el 8 es primo.
